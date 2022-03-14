@@ -15,6 +15,7 @@ Werkzeug = "==0.14.1"
 WTForms = "==2.2.1"
 flask-mongoengine = "*"
 flask-security = "*"
+flask-restplus = "*"
 
 [dev-packages]
 
