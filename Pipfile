@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+click = "==7.0"
+itsdangerous = "==1.1.0"
+python-dotenv = "==0.10.1"
+Flask = "==1.0.2"
+Flask-WTF = "==0.14.2"
+Jinja2 = "==2.10"
+MarkupSafe = "==1.1.1"
+Werkzeug = "==0.14.1"
+WTForms = "==2.2.1"
+flask-mongoengine = "*"
+flask-security = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
